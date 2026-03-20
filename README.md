@@ -189,7 +189,7 @@ c.fig.suptitle('Titanic Passengers per Sex')
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_6_1.png)
+![png](Visuals/Titanic_Data_Project_6_1.png)
     
 
 
@@ -211,7 +211,7 @@ c.fig.suptitle('Titanic Passengers per Sex and Class')
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_7_1.png)
+![png](Visuals/Titanic_Data_Project_7_1.png)
     
 
 
@@ -231,7 +231,7 @@ c.fig.suptitle('Titanic Passengers per Class and Sex')
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_8_1.png)
+![png](Visuals/Titanic_Data_Project_8_1.png)
     
 
 
@@ -495,7 +495,7 @@ c.fig.suptitle('Titanic Passenger per Class and Person')
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_12_1.png)
+![png](Visuals/Titanic_Data_Project_12_1.png)
     
 
 
@@ -514,7 +514,7 @@ plt.title('Titanic Passenger Age Distribution')
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_13_1.png)
+![png](Visuals/Titanic_Data_Project_13_1.png)
     
 
 
@@ -573,7 +573,7 @@ fig.add_legend()
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_16_2.png)
+![png](Visuals/Titanic_Data_Project_16_2.png)
     
 
 
@@ -608,7 +608,7 @@ fig.add_legend()
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_17_2.png)
+![png](Visuals/Titanic_Data_Project_17_2.png)
     
 
 
@@ -643,7 +643,7 @@ fig.add_legend()
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_18_2.png)
+![png](Visuals/Titanic_Data_Project_18_2.png)
     
 
 
@@ -978,7 +978,7 @@ c.fig.suptitle("Titanic Passengers per Cabin Level")
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_22_1.png)
+![png](Visuals/Titanic_Data_Project_22_1.png)
     
 
 
@@ -998,7 +998,7 @@ c.fig.suptitle('Container Passenger per Cabin')
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_23_1.png)
+![png](Visuals/Titanic_Data_Project_23_1.png)
     
 
 
@@ -1145,7 +1145,7 @@ c.fig.suptitle("Titanic Passengers' Origin per Class")
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_25_1.png)
+![png](Visuals/Titanic_Data_Project_25_1.png)
     
 
 
@@ -1310,7 +1310,7 @@ c.fig.suptitle("Titanic Passengers per Class and Onboarded Pary")
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_28_1.png)
+![png](Visuals/Titanic_Data_Project_28_1.png)
     
 
 
@@ -1346,7 +1346,7 @@ c.fig.suptitle("Titanic Passengers with Family vs Alone")
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_30_1.png)
+![png](Visuals/Titanic_Data_Project_30_1.png)
     
 
 
@@ -1367,7 +1367,7 @@ c.fig.suptitle("Survivors vs Non Survivors in the Titanic Sinking")
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_31_1.png)
+![png](Visuals/Titanic_Data_Project_31_1.png)
     
 
 
@@ -1389,7 +1389,7 @@ c.fig.suptitle("Number of Survivors per Class")
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_32_1.png)
+![png](Visuals/Titanic_Data_Project_32_1.png)
     
 
 
@@ -1408,7 +1408,7 @@ c.fig.suptitle("Number of Survivors per Class and Person")
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_33_1.png)
+![png](Visuals/Titanic_Data_Project_33_1.png)
     
 
 
@@ -1427,7 +1427,7 @@ c.fig.suptitle("Linear Regression of Survivors per Age Group",y=1.05)
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_34_1.png)
+![png](Visuals/Titanic_Data_Project_34_1.png)
     
 
 
@@ -1446,7 +1446,7 @@ c.fig.suptitle("Linear Regression of Survivors per Age and Class",y=1.05)
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_35_1.png)
+![png](Visuals/Titanic_Data_Project_35_1.png)
     
 
 
@@ -1468,7 +1468,7 @@ c.fig.suptitle("Survivors per Class and Generarion",y=1.03)
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_36_1.png)
+![png](Visuals/Titanic_Data_Project_36_1.png)
     
 
 
@@ -1488,7 +1488,7 @@ c.fig.suptitle("Survivors per Sex and Generarion",y=1.03)
 
 
     
-![png](Titanic_Data_Project_files/Titanic_Data_Project_37_1.png)
+![png](Visuals/Titanic_Data_Project_37_1.png)
     
 
 
