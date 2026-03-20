@@ -45,7 +45,7 @@ The interaction between class, age, and gender is critical. For example, younger
 ![png](Visuals/Titanic_Data_Project_35_1.png)
 
 ## 5.Survival declines with age, but class significantly moderates this effect
-Survival probability decreases as age increases, but this decline is much steeper for lower-class passengers. First-class passengers maintain relatively higher survival rates across all age groups, while third-class passengers—especially older individuals—experience the lowest survival likelihood.
+Survival probability decreases as age increases, but this decline is much steeper for lower-class passengers. First-class passengers maintain relatively higher survival rates across all age groups, while third-class passenger experience the lowest survival likelihood.
 
 ![png](Visuals/Titanic_Data_Project_36_1.png)
 
